@@ -1,0 +1,56 @@
+/* CSS Reset */
+body, h1, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rules for header */
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(images/pattern.webp);
+}
+
+.hero {
+    height: 50%S;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+
+/* style rules for divs */
+.brush {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frame {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+span {
+    color: blue;
+    font-family: Helvetica;
+}
